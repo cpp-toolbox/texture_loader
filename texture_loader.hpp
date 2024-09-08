@@ -3,6 +3,7 @@
 
 #include <string>
 #include <functional>
+#include <vector>
 
 using TextureCallback = std::function<void(int, int, int, unsigned char *)>;
 
